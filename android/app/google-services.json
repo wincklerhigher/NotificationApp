@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60083255762",
+    "project_id": "acoustic-cirrus-383808",
+    "storage_bucket": "acoustic-cirrus-383808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60083255762:android:9dc346fb2d493e05d5f00b",
+        "android_client_info": {
+          "package_name": "com.eatime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr4dznfJmBUX295zks8QZiQaBy8JopA0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
