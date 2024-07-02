@@ -3,21 +3,25 @@ import { StyleSheet } from 'react-native';
 export default StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'flex-start', 
+    justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-    paddingTop: 100,     
+    backgroundColor: '#FFFFFF',
   },
   button: {
-    padding: 10,
-    backgroundColor: '#007BFF',
-    borderRadius: 5,
+    width: '80%',
     marginVertical: 10,
-    width: '80%', 
-    alignItems: 'center',        
+    borderRadius: 30,
+    paddingVertical: 14,
   },
   buttonText: {
-    color: '#FFF',
+    color: 'white',
     fontWeight: 'bold',
+    fontSize: 16,
+  },
+  enviarButton: {
+    backgroundColor: '#FF6347',
+  },
+  cancelarButton: {
+    backgroundColor: '#4682B4',
   },
 });

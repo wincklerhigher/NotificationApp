@@ -1,4 +1,4 @@
-package com.eatime
+package com.NotificationApp
 
 import android.app.Application
 import com.facebook.react.PackageList
